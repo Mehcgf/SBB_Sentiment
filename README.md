@@ -39,5 +39,3 @@ Kundenfeedback manuell auswerten kostet Zeit. Ziel war es, eine automatisierte N
 - transformers (HuggingFace)
 - matplotlib
 - collections, re
-
-## Struktur
